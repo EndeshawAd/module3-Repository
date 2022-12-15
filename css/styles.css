@@ -1,6 +1,6 @@
-nav{
-    background-color: gray;
-    border:2px solid black;
+
+nav ul li{
+    border-bottom: 1px solid black;
 }
 main h1{
     text-align: center;
